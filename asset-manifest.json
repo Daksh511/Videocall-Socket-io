@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Videocall-Socket-io/static/css/main.f45de71b.css",
+    "main.js": "/Videocall-Socket-io/static/js/main.7959e326.js",
+    "static/media/1248104.jpg": "/Videocall-Socket-io/static/media/1248104.9f716d462fdd05870496.jpg",
+    "index.html": "/Videocall-Socket-io/index.html",
+    "main.f45de71b.css.map": "/Videocall-Socket-io/static/css/main.f45de71b.css.map",
+    "main.7959e326.js.map": "/Videocall-Socket-io/static/js/main.7959e326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f45de71b.css",
+    "static/js/main.7959e326.js"
+  ]
+}
